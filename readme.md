@@ -1,6 +1,9 @@
 # protoc-gen-lua-for-go干什么用的？
 
-	在lua代码中使用protocolbuffer，官方不支持， 需要使用第三方工具proto-gen-lua， 其中pb.c是c语言版本， 本例中pb.go为go语言版本，另外支持了int64，uint64
+	在lua代码中使用protocolbuffer，由于官方不支持， 
+	需要使用第三方工具proto-gen-lua， 
+	其中pb.c是c语言版本， 
+	本例中pb.go为go语言版本，另外支持了int64，uint64
 
 
 # 例子demo
